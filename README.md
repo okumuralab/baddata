@@ -1,6 +1,7 @@
 # 政府統計のチェックリスト
 
 三重大学教育学部 [奥村晴彦](http://oku.edu.mie-u.ac.jp/~okumura/)
+（この文書は [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.ja) で公開しています）
 
 まだ書き始めたばかりの初期段階です。ご意見は[Issues](https://github.com/okumuralab/baddata/issues)にどうぞ。
 
@@ -39,3 +40,5 @@
 * オープン＆ビッグデータ活用・地方創生推進機構（VLED）[成果公開](http://www.vled.or.jp/results/)にある最新の「オープンデータガイド」
 * 奥村晴彦 [「ネ申Excel」問題](http://oku.edu.mie-u.ac.jp/~okumura/SSS2013.pdf) 情報処理学会情報教育シンポジウムSSS2013論文集，pp.93-98（2013年8月）
 * Tim Berners-Lee [クールなURIは変わらない](http://www.kanzaki.com/docs/Style/URI)
+* Q. Ethan McCallum, [Bad Data Handbook](http://shop.oreilly.com/product/0636920024422.do) (O'Reilly, 2012)
+
