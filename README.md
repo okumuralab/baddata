@@ -15,6 +15,14 @@
 
 工事中
 
+### 一覧情報が不足
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">実は、学校の「校名・住所・電話番号・URL・メールアドレス」の５つ組は、文部科学省のどこもデータを持っていない。それでは緊急時に連絡のしようがない。それはまずいと思い、全学校の基本情報をオープンデータにするサービスを始めます。それがedumap。　<a href="https://twitter.com/hashtag/netcommons?src=hash">#netcommons</a></p>&mdash; norico arai (@noricoco) <a href="https://twitter.com/noricoco/status/491553304652951552">2014年7月22日</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+→ [edumap](http://www.edumap.jp)
+
+例えば全国自治体について，ホームページから情報を自動収集したり，○○担当部局に郵便を出す必要が生じた場合，地方公共団体コード（あるいは国税庁の法人番号）・公式ホームページURL・郵便番号付き住所等を対応づけるデータが欲しいが，人間が地道に探さないと簡単には得られない。
+
 ### IDを付ける
 
 県ごとのデータはJIS X 0401「都道府県コード」を付け，その順に並べる。自治体ごとのデータにも総務省[全国地方公共団体コード](http://www.soumu.go.jp/denshijiti/code.html)を付けると集約が簡単になる（参考：ウィキペディア[全国地方公共団体コード](https://ja.wikipedia.org/wiki/全国地方公共団体コード)）。
