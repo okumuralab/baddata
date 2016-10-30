@@ -2,14 +2,18 @@
 
 三重大学教育学部 [奥村晴彦](http://oku.edu.mie-u.ac.jp/~okumura/)
 
-まだ書き始めたばかりの初期段階です。ご意見はIssuesにどうぞ。
+まだ書き始めたばかりの初期段階です。ご意見は[Issues](./issues)にどうぞ。
 
 ## チェックリスト
 
 * 機械判読に適したデータ形式か
 * 政府標準利用規約（第2.0版）[PDF](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/gl2_betten_1.pdf) に従っているか
 
+工事中
+
 ## 具体例
+
+工事中
 
 ### IDを付ける
 
