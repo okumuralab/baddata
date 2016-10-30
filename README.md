@@ -8,6 +8,7 @@
 ## チェックリスト
 
 * 機械判読に適したデータ形式か（PDFは不適。Excel形式か，可能ならCSV，JSONを使う）
+* データとしての利用を考えて作成しているか（セル結合をしてはならない，など。参考：[数値（表）、文章、地理空間情報のデータ作成に当たっての留意事項](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/data/gl26_betten2.pdf)）
 * [政府標準利用規約（第2.0版）](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/gl2_betten_1.pdf) または同じことだが [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.ja) に従っているか（参考：松原勇介 [政府ホームページ利用規約の一覧](https://gist.github.com/whym/1f84065b5811ab96fd85)）
 * 永続的なURLを使っているか（参考：[国の機関サイトの残存率](http://warp.ndl.go.jp/contents/reccommend/collection/linkrot.html) 5年で60%が消滅）
 
@@ -34,7 +35,7 @@
 ## 参考リンク
 
 * [政府統計の総合窓口 e-Stat](http://www.e-stat.go.jp)
-* 首相官邸 [高度情報通信ネットワーク社会推進戦略本部（ＩＴ総合戦略本部）](http://www.kantei.go.jp/jp/singi/it2/)＞[電子行政オープンデータに関連する決定等](http://www.kantei.go.jp/jp/singi/it2/densi/)
+* 首相官邸 [高度情報通信ネットワーク社会推進戦略本部（ＩＴ総合戦略本部）](http://www.kantei.go.jp/jp/singi/it2/)＞[電子行政オープンデータに関連する決定等](http://www.kantei.go.jp/jp/singi/it2/densi/) 特に「二次利用の促進のための府省のデータ公開に関する基本的考え方（ガイドライン）」の「別添２」（数値（表）、文章、地理空間情報のデータ作成に当たっての留意事項）および「政府標準利用規約（第2.0版）」
 * 総務省 [オープンデータ戦略の推進](http://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/opendata/)
 * [データカタログサイト](http://www.data.go.jp)
 * オープン＆ビッグデータ活用・地方創生推進機構（VLED）[成果公開](http://www.vled.or.jp/results/)にある最新の「オープンデータガイド」
