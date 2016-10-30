@@ -34,5 +34,6 @@
 
 * [政府統計の総合窓口 e-Stat](http://www.e-stat.go.jp)
 * 首相官邸 [電子行政オープンデータに関連する決定等](http://www.kantei.go.jp/jp/singi/it2/densi/)
+* 総務省 [オープンデータ戦略の推進](http://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/opendata/)
 * 奥村晴彦「「ネ申Excel」問題」情報処理学会情報教育シンポジウムSSS2013論文集，pp.93-98（2013年8月）[PDF](http://oku.edu.mie-u.ac.jp/~okumura/SSS2013.pdf)
 * Tim Berners-Lee [クールなURIは変わらない](http://www.kanzaki.com/docs/Style/URI)
