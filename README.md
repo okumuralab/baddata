@@ -33,8 +33,9 @@
 ## 参考リンク
 
 * [政府統計の総合窓口 e-Stat](http://www.e-stat.go.jp)
-* 首相官邸 [電子行政オープンデータに関連する決定等](http://www.kantei.go.jp/jp/singi/it2/densi/)
+* 首相官邸 [高度情報通信ネットワーク社会推進戦略本部（ＩＴ総合戦略本部）](http://www.kantei.go.jp/jp/singi/it2/)＞[電子行政オープンデータに関連する決定等](http://www.kantei.go.jp/jp/singi/it2/densi/)
 * 総務省 [オープンデータ戦略の推進](http://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/opendata/)
+* [データカタログサイト](http://www.data.go.jp)
 * オープン＆ビッグデータ活用・地方創生推進機構（VLED）[成果公開](http://www.vled.or.jp/results/)にある最新の「オープンデータガイド」
 * 奥村晴彦 [「ネ申Excel」問題](http://oku.edu.mie-u.ac.jp/~okumura/SSS2013.pdf) 情報処理学会情報教育シンポジウムSSS2013論文集，pp.93-98（2013年8月）
 * Tim Berners-Lee [クールなURIは変わらない](http://www.kanzaki.com/docs/Style/URI)
