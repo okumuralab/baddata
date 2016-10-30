@@ -8,7 +8,7 @@
 ## チェックリスト
 
 * 機械判読に適したデータ形式か（PDFは不適。Excel形式か，可能ならCSV，JSONを使う）
-* データとしての利用を考えて作成しているか（セル結合をしてはならない，など。参考：[数値（表）、文章、地理空間情報のデータ作成に当たっての留意事項](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/data/gl26_betten2.pdf)）
+* データとしての利用を考えて作成しているか（セル結合をしてはならない，など。参考：首相官邸「二次利用の促進のための府省のデータ公開に関する基本的考え方（ガイドライン）」別添2 [数値（表）、文章、地理空間情報のデータ作成に当たっての留意事項](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/data/gl26_betten2.pdf)）
 * [政府標準利用規約（第2.0版）](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/gl2_betten_1.pdf) または同じことだが [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.ja) に従っているか（参考：松原勇介 [政府ホームページ利用規約の一覧](https://gist.github.com/whym/1f84065b5811ab96fd85)）
 * 永続的なURLを使っているか（参考：[国の機関サイトの残存率](http://warp.ndl.go.jp/contents/reccommend/collection/linkrot.html) 5年で60%が消滅）
 
