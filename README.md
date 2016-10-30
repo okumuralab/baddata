@@ -7,9 +7,8 @@
 ## チェックリスト
 
 * 機械判読に適したデータ形式か
-* 政府標準利用規約（第2.0版）[PDF](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/gl2_betten_1.pdf) に従っているか
-
-後者については，松原勇介氏が[政府ホームページ利用規約の一覧](https://gist.github.com/whym/1f84065b5811ab96fd85)を作成しておられる。
+* 政府標準利用規約（第2.0版）[PDF](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/gl2_betten_1.pdf) に従っているか（参考：松原勇介 [政府ホームページ利用規約の一覧](https://gist.github.com/whym/1f84065b5811ab96fd85)）
+* 永続的なURLを使っているか（参考：[国の機関サイトの残存率](http://warp.ndl.go.jp/contents/reccommend/collection/linkrot.html) 5年で60%が消滅）
 
 ## 具体例
 
@@ -36,4 +35,4 @@
 * [政府統計の総合窓口 e-Stat](http://www.e-stat.go.jp)
 * 首相官邸 [電子行政オープンデータに関連する決定等](http://www.kantei.go.jp/jp/singi/it2/densi/)
 * 奥村晴彦「「ネ申Excel」問題」情報処理学会情報教育シンポジウムSSS2013論文集，pp.93-98（2013年8月）[PDF](http://oku.edu.mie-u.ac.jp/~okumura/SSS2013.pdf)
-
+* Tim Berners-Lee [クールなURIは変わらない](http://www.kanzaki.com/docs/Style/URI)
