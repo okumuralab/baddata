@@ -42,4 +42,5 @@
 * 奥村晴彦 [「ネ申Excel」問題](http://oku.edu.mie-u.ac.jp/~okumura/SSS2013.pdf) 情報処理学会情報教育シンポジウムSSS2013論文集，pp.93-98（2013年8月）
 * Tim Berners-Lee [クールなURIは変わらない](http://www.kanzaki.com/docs/Style/URI)
 * Q. Ethan McCallum, [Bad Data Handbook](http://shop.oreilly.com/product/0636920024422.do) (O'Reilly, 2012)
+* @narusase さんによる[ネ申エクセル問題に関するWiki](http://wiki3.jp/god_excel)
 
