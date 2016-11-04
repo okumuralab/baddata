@@ -14,13 +14,13 @@ API化まで現場に押し付けず，Excelファイルでもいいからデー
 ## チェックリスト
 
 * 当然ながら，オープンであること（つまり，許諾なしに2次利用できること）。具体的には，[政府標準利用規約（第2.0版）](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/gl2_betten_1.pdf) または同じことだが [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.ja) に従うこと（参考：松原勇介 [政府ホームページ利用規約の一覧](https://gist.github.com/whym/1f84065b5811ab96fd85)）
-* 機械判読に適したデータ形式であること（PDFは不適。Excel形式か，可能ならCSV，JSONを使う）
+* 機械判読に適したデータ形式であること（「PDFだけ」は不適。Excel形式か，テキストファイル（HTML，XML，CSV，TSV，JSONの類）を使う）
 * データとしての利用を考えて作成していること（セル結合をしない，など。参考：首相官邸「二次利用の促進のための府省のデータ公開に関する基本的考え方（ガイドライン）」別添2 [数値（表）、文章、地理空間情報のデータ作成に当たっての留意事項](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/data/gl26_betten2.pdf)）
 * 永続的なURLを使うこと（参考：[国の機関サイトの残存率](http://warp.ndl.go.jp/contents/reccommend/collection/linkrot.html) 5年で60%が消滅）
 
 ## 具体例
 
-工事中
+募集中
 
 ### 一覧情報が不足
 
