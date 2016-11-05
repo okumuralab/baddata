@@ -23,6 +23,7 @@ API化まで現場に押し付けず，Excelファイルでもいいからデー
 ### PDFだけの例
 
 * 厚労省 [平成28年「高年齢者の雇用状況」集計結果](http://www.mhlw.go.jp/stf/houdou/0000140837.html) …… すべてPDF
+* 国立教育政策研究所 [教育課程実施状況調査](http://www.nier.go.jp/kaihatsu/kyouikukatei.html) …… すべてPDF
 
 （ほかにもたくさんあるはず。あったら教えてください）
 
