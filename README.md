@@ -3,11 +3,11 @@
 三重大学教育学部 [奥村晴彦](http://oku.edu.mie-u.ac.jp/~okumura/)
 （この文書は [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.ja) で公開しています）
 
-まだ書き始めたばかりの初期段階です。ご意見は[Issues](https://github.com/okumuralab/baddata/issues)または[ツイッター](https://twitter.com/h_okumura)にどうぞ。
+ご意見は[Issues](https://github.com/okumuralab/baddata/issues)または[ツイッター](https://twitter.com/h_okumura)にどうぞ。
 
 ## 基本的な考え方
 
-「もっと手間をかけろ」ではなく，「もっと手間を省け」（シンプルなほど機械可読性が高い。罫線やセル結合を駆使した帳票化は機械可読性を妨げる），「わざわざPDF化せず元データ（Excelファイル等）をそのまま公開すればよい」という考え方を広める。「PDFのほうが改ざんされにくい」といった誤解を解く。
+「もっと手間をかけろ」ではなく，「もっと手間を省け」（シンプルな表ほど機械可読性が高い。罫線やセル結合を駆使した帳票化は機械可読性を妨げる），「わざわざPDF化せず元データ（Excelファイル等）をそのまま公開すればよい」という考え方を広める。「PDFのほうが改ざんされにくい」といった誤解を解く。
 
 API化まで現場に押し付けず，Excelファイルでもいいからデータをタイムリーに出してもらう。API化は力のあるところがやればよい（われわれボランティアでもできる）。Excelファイルからデータを抽出する方法は[いろいろある](http://oku.edu.mie-u.ac.jp/~okumura/stat/exceldata.html)。
 
@@ -16,11 +16,15 @@ API化まで現場に押し付けず，Excelファイルでもいいからデー
 * 当然ながら，オープンであること（つまり，許諾なしに2次利用できること）。具体的には，[政府標準利用規約（第2.0版）](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/gl2_betten_1.pdf) または同じことだが [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.ja) に従うこと（参考：松原勇介 [政府ホームページ利用規約の一覧](https://gist.github.com/whym/1f84065b5811ab96fd85)）
 * 機械判読に適したデータ形式であること（「PDFだけ」は不適。Excel形式か，テキストファイル（HTML，XML，CSV，TSV，JSONの類）を使う）
 * データとしての利用を考えて作成していること（セル結合をしない，など。参考：首相官邸「二次利用の促進のための府省のデータ公開に関する基本的考え方（ガイドライン）」別添2 [数値（表）、文章、地理空間情報のデータ作成に当たっての留意事項](http://www.kantei.go.jp/jp/singi/it2/densi/kettei/data/gl26_betten2.pdf)）
-* 永続的なURLを使うこと（参考：[国の機関サイトの残存率](http://warp.ndl.go.jp/contents/reccommend/collection/linkrot.html) 5年で60%が消滅）
+* 永続的なURLを使うこと。現状ではサイトリニューアルのたびにURLが変わり，リンク切れが発生する（参考：[国の機関サイトの残存率](http://warp.ndl.go.jp/contents/reccommend/collection/linkrot.html) 5年で60%が消滅）
 
 ## 具体例
 
-募集中
+### PDFだけの例
+
+* 厚労省 [平成28年「高年齢者の雇用状況」集計結果](http://www.mhlw.go.jp/stf/houdou/0000140837.html) …… すべてPDF
+
+## いただいた意見
 
 ### 一覧情報が不足
 
