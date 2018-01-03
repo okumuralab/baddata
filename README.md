@@ -57,4 +57,4 @@ API化まで現場に押し付けず，Excelファイルでもいいからデー
 * Tim Berners-Lee [クールなURIは変わらない](http://www.kanzaki.com/docs/Style/URI)
 * Q. Ethan McCallum, [Bad Data Handbook](http://shop.oreilly.com/product/0636920024422.do) (O'Reilly, 2012)
 * @narusase さんによる[ネ申エクセル問題に関するWiki](http://wiki3.jp/god_excel)
-
+* [「札幌市オープンデータ整備・変換業務」に係る一般競争入札について](http://www.city.sapporo.jp/kikaku/ictplan/opendata_henkan.html) （2017年12月28日）業務仕様書（PDF）に，どのようにしたら機械判読が容易になるかの説明がある
